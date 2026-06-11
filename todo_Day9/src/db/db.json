@@ -1,0 +1,20 @@
+{
+  "Todos": [
+    {
+      "id": "1",
+      "Title": "Session",
+      "Task": "Session on React"
+    },
+    {
+      "id": "2",
+      "Title": "Evaluation",
+      "Task": "Evaluate the Assessments"
+    },
+    {
+      "Title": "ss",
+      "Task": "ss",
+      "id": "HKUkDTawumM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
