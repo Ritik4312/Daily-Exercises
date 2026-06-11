@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6a23d9cb39d87eba367451f1"
+  },
+  "name": "Owner1",
+  "email": "owner1@gmail.com",
+  "password": "$2b$10$xA8jfW02Izy4fozGCzJZbeeO1RwJdt3LA6sWscwH/6A7u75MEc61K",
+  "createdAt": {
+    "$date": "2026-06-06T08:26:51.519Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-06T08:26:51.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2930c4cd6d523e44315f48"
+  },
+  "name": "New Owner",
+  "email": "new@test.com",
+  "password": "$2b$10$GNsGnK/gNy2p7YRf9PN.1O9noKnYjmycXjFsy5e21Gi00t.ZrobtC",
+  "createdAt": {
+    "$date": "2026-06-10T09:39:16.694Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T09:39:16.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2a7b1ad437e201c1c8265e"
+  },
+  "name": "Owner2",
+  "email": "o2@test.com",
+  "password": "$2b$10$Hz4w7sPG63h8QQu5EsEJp.6HovE0KnFSXPZyhp20xBMy2uFTES58m",
+  "createdAt": {
+    "$date": "2026-06-11T09:08:42.052Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-11T09:08:42.052Z"
+  },
+  "__v": 0
+}]

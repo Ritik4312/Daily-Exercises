@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6a21563488fbcd28f6883e6f"
+  },
+  "name": "Rahul",
+  "email": "rahul@gmail.com",
+  "password": "$2b$10$riZYwIDfpU2IziUbxtCQGeslhqpDNuw/onPm.qX/29Sj2qM8INHNC",
+  "downloadedApps": [],
+  "createdAt": {
+    "$date": "2026-06-04T10:40:52.862Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-04T10:40:52.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a27ab20e99468eecbda49e5"
+  },
+  "name": "Ram",
+  "email": "ram@gmail.com",
+  "password": "$2b$10$r6k.G5ZMCDHlEEyBgUOE.OqujdGLaxBjJZV1OJKvO6bBydjWyS7PC",
+  "downloadedApps": [],
+  "createdAt": {
+    "$date": "2026-06-09T05:56:48.014Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-09T05:56:48.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a28f6e3464bb688c71dc663"
+  },
+  "name": "Raj",
+  "email": "raj@gmail.com",
+  "password": "$2b$10$2DFnckfLbMoo589b7m.wNOcOG7VAiflY0uSbnq7z2D4vZpnfISlPC",
+  "downloadedApps": [],
+  "createdAt": {
+    "$date": "2026-06-10T05:32:19.218Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T05:32:19.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2a7b1920678407e62c69ee"
+  },
+  "name": "User",
+  "email": "u@test.com",
+  "password": "$2b$10$exekLybO8gkY3Vt5/AOuM.CQPJaMmidg6HGT3CQxhGb.Khc6WJpP.",
+  "downloadedApps": [],
+  "createdAt": {
+    "$date": "2026-06-11T09:08:41.286Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-11T09:08:41.286Z"
+  },
+  "__v": 0
+}]

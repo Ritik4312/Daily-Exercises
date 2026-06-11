@@ -1,0 +1,304 @@
+[{
+  "_id": {
+    "$oid": "6a23da2439d87eba367451f2"
+  },
+  "name": "Candy Crush",
+  "description": "A fun puzzle game\n",
+  "version": "1.5",
+  "genre": "games",
+  "ratings": 5,
+  "isVisible": true,
+  "downloadCount": 2,
+  "announcement": "New version 1.5 released",
+  "owner": {
+    "$oid": "6a23d9cb39d87eba367451f1"
+  },
+  "releaseDate": {
+    "$date": "2026-06-06T08:28:20.518Z"
+  },
+  "comments": [
+    {
+      "userId": {
+        "$oid": "6a21563488fbcd28f6883e6f"
+      },
+      "userName": "Rahul",
+      "comment": "A very good app",
+      "_id": {
+        "$oid": "6a23dac439d87eba367451f4"
+      },
+      "createdAt": {
+        "$date": "2026-06-06T08:31:00.829Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "6a28f6e3464bb688c71dc663"
+      },
+      "userName": "Raj",
+      "comment": "Nice app",
+      "_id": {
+        "$oid": "6a28f706464bb688c71dc66d"
+      },
+      "createdAt": {
+        "$date": "2026-06-10T05:32:54.123Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-06T08:28:20.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T09:14:42.256Z"
+  },
+  "__v": 4,
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "6a28f6e3464bb688c71dc663"
+      },
+      "rating": 5,
+      "_id": {
+        "$oid": "6a292a442044cf328cc45aa7"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "6a21563488fbcd28f6883e6f"
+      },
+      "rating": 5,
+      "_id": {
+        "$oid": "6a292afb2044cf328cc45b02"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a23da6239d87eba367451f3"
+  },
+  "name": "Myntra",
+  "description": "Online fashion store",
+  "version": "3.0",
+  "genre": "fashion",
+  "ratings": 4,
+  "isVisible": true,
+  "downloadCount": 2,
+  "announcement": "",
+  "owner": {
+    "$oid": "6a23d9cb39d87eba367451f1"
+  },
+  "releaseDate": {
+    "$date": "2026-06-06T08:29:22.295Z"
+  },
+  "comments": [
+    {
+      "userId": {
+        "$oid": "6a27ab20e99468eecbda49e5"
+      },
+      "userName": "Ram",
+      "comment": "Nice app for shopping",
+      "_id": {
+        "$oid": "6a27ab84e99468eecbda49e8"
+      },
+      "createdAt": {
+        "$date": "2026-06-09T05:58:28.016Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "6a21563488fbcd28f6883e6f"
+      },
+      "userName": "Rahul",
+      "comment": "good",
+      "_id": {
+        "$oid": "6a292af02044cf328cc45ae5"
+      },
+      "createdAt": {
+        "$date": "2026-06-10T09:14:24.932Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-06T08:29:22.295Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T09:14:24.933Z"
+  },
+  "__v": 4,
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "6a21563488fbcd28f6883e6f"
+      },
+      "rating": 4,
+      "_id": {
+        "$oid": "6a292ae32044cf328cc45ae0"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a292879230e4bf53eeb6ac8"
+  },
+  "name": "Instagram",
+  "description": "Social media app for connecting",
+  "version": "3.2",
+  "genre": "social",
+  "ratings": 4.5,
+  "isVisible": true,
+  "downloadCount": 3,
+  "announcement": "",
+  "owner": {
+    "$oid": "6a23d9cb39d87eba367451f1"
+  },
+  "releaseDate": {
+    "$date": "2026-06-10T09:03:53.378Z"
+  },
+  "comments": [
+    {
+      "userId": {
+        "$oid": "6a28f6e3464bb688c71dc663"
+      },
+      "userName": "Raj",
+      "comment": "Excellent app",
+      "_id": {
+        "$oid": "6a29291f230e4bf53eeb6ae4"
+      },
+      "createdAt": {
+        "$date": "2026-06-10T09:06:39.487Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-10T09:03:53.383Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T09:14:56.439Z"
+  },
+  "__v": 4,
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "6a28f6e3464bb688c71dc663"
+      },
+      "rating": 5,
+      "_id": {
+        "$oid": "6a292a2d2044cf328cc45a94"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "6a21563488fbcd28f6883e6f"
+      },
+      "rating": 4,
+      "_id": {
+        "$oid": "6a292b102044cf328cc45b27"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2a7a6bc70d3961aa7de00f"
+  },
+  "name": "E2E App Updated",
+  "description": "E2E test app",
+  "version": "1.0",
+  "genre": "games",
+  "ratings": 5,
+  "isVisible": true,
+  "downloadCount": 1,
+  "announcement": "New update available!",
+  "owner": {
+    "$oid": "6a2a7a6bc70d3961aa7de00e"
+  },
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "6a2a7a6dc70d3961aa7de010"
+      },
+      "rating": 5,
+      "_id": {
+        "$oid": "6a2a7a6ec70d3961aa7de03b"
+      }
+    }
+  ],
+  "releaseDate": {
+    "$date": "2026-06-11T09:05:47.970Z"
+  },
+  "comments": [
+    {
+      "userId": {
+        "$oid": "6a2a7a6dc70d3961aa7de010"
+      },
+      "userName": "E2E User",
+      "comment": "Great app!",
+      "_id": {
+        "$oid": "6a2a7a6ec70d3961aa7de039"
+      },
+      "createdAt": {
+        "$date": "2026-06-11T09:05:50.319Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-11T09:05:47.970Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-11T09:05:50.517Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6a2a7b182b461aaf11424b11"
+  },
+  "name": "E2E App Updated",
+  "description": "E2E test app",
+  "version": "1.0",
+  "genre": "games",
+  "ratings": 5,
+  "isVisible": true,
+  "downloadCount": 1,
+  "announcement": "New update available!",
+  "owner": {
+    "$oid": "6a2a7b182b461aaf11424b10"
+  },
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "6a2a7b1a2b461aaf11424b12"
+      },
+      "rating": 5,
+      "_id": {
+        "$oid": "6a2a7b1b2b461aaf11424b3f"
+      }
+    }
+  ],
+  "releaseDate": {
+    "$date": "2026-06-11T09:08:40.624Z"
+  },
+  "comments": [
+    {
+      "userId": {
+        "$oid": "6a2a7b1a2b461aaf11424b12"
+      },
+      "userName": "E2E User",
+      "comment": "Great app!",
+      "_id": {
+        "$oid": "6a2a7b1b2b461aaf11424b3d"
+      },
+      "createdAt": {
+        "$date": "2026-06-11T09:08:43.399Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-11T09:08:40.625Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-11T09:08:43.648Z"
+  },
+  "__v": 2
+}]
