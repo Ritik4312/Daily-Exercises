@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ram",
+      "password": "ram123",
+      "watchList": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Raj",
+      "password": "raj123",
+      "watchList": [
+        2
+      ]
+    },
+    {
+      "name": "Amisha",
+      "password": "ami",
+      "id": "3",
+      "watchList": []
+    }
+  ],
+  "movies": [
+    {
+      "id": "1",
+      "name": "xxx",
+      "img": "xxx.jpg"
+    },
+    {
+      "id": "2",
+      "name": "yyy",
+      "img": "yyy.jpg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

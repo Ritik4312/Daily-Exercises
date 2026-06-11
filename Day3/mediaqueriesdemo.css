@@ -1,0 +1,18 @@
+body {
+    background-color: olive;
+    color: white;
+}
+@media screen and (min-width: 600px) {
+    body{
+        background-color: lightblue;
+        color: white;
+    }
+    
+}
+@media screen and (min-width: 900px) {
+    body{
+        background-color: lightgreen;
+        color: white;
+    }
+    
+}

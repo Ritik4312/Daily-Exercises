@@ -1,0 +1,34 @@
+body{
+    background-color:beige;
+    text-align: center;
+    margin: 0 auto;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap-reverse;
+}
+section{
+    border: 2px solid black;
+    flex: auto;
+}
+.callout{
+    border: 2px solid black;
+    flex: auto;
+}
+.calButtons button{
+    background-color: cadetblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    size: 40px;
+
+}
+nav{
+    background-color: lightblue;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
