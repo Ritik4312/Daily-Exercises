@@ -1,0 +1,34 @@
+body{
+    font-family: Arial;
+    padding:20px;
+}
+
+.container{
+    display:flex;
+    gap:20px;
+}
+
+.users{
+    width:200px;
+}
+
+.chat{
+    flex:1;
+}
+
+#messages{
+    border:1px solid gray;
+    height:400px;
+    overflow-y:auto;
+    padding:10px;
+    margin-bottom:10px;
+}
+
+input{
+    width:70%;
+    padding:10px;
+}
+
+button{
+    padding:10px;
+}
