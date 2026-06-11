@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <h1> Login Page</h1>
+        User Name :- <input id = "username">
+        password :- <input id = "password">
+        <button onclick="printname()">Login</button>
+    </center>
+    <script>
+        function printname()
+        {
+            const username = document.getElementById("username").value;
+            const password = document.getElementById("password").value;
+            console.log("this is html page");
+            fetch(`http://localhost:3000/users?username=${username}&password=${password}`)
+            .then((res)=>res.json())
+            .then((data)=>console.log(data))
+            
+        }
+    </script>
+</body>
+</html>

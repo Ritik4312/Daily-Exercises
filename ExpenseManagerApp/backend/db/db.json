@@ -1,0 +1,30 @@
+{
+    "users":[
+        {
+            "id":1,
+            "userName":"admin",
+            "password":"admin",
+            "role":"admin"
+        },
+        {
+            "id":2,
+            "userName":"user",
+            "password":"user",
+            "role":"user"
+        }
+    ],
+    "expenses":[
+        {
+            "id":1,
+            "userId":1,
+            "title":"Food",
+            "amount":500
+        },
+        {
+            "id":2,
+            "userId":1,
+            "title":"Transport",
+            "amount":1000
+        }
+    ]
+}
