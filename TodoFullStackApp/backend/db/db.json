@@ -1,0 +1,35 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Buy groceries",
+      "description": "Milk, Bread, Eggs, Butter",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Finish project report",
+      "description": "Complete the final report for the project",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Call mom",
+      "description": "Check in with mom and see how she's doing",
+      "completed": true
+    },
+    {
+      "title": "aa",
+      "description": "aa",
+      "completed": false,
+      "id": "o44AoVAIfmM"
+    },
+    {
+      "title": "bb",
+      "description": "bb",
+      "completed": false,
+      "id": "gXbOElwFWfU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
