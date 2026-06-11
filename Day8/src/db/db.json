@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Ram",
+      "password": "ram123"
+    },
+    {
+      "id": "2",
+      "username": "Shyam",
+      "password": "shyam123"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "pId": 1,
+      "pName": "xxx",
+      "pPrice": 123
+    },
+    {
+      "pId": 2,
+      "pName": " ss",
+      "pPrice": 23,
+      "id": "PSj6Qdx9G8U"
+    },
+    {
+      "pId": 3,
+      "pName": " hhh",
+      "pPrice": 15,
+      "id": "d_MyxFq3YPM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
